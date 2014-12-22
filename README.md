@@ -1,5 +1,5 @@
-Follower Maze Server Test by Samuel Dost
-================================
+Follower Maze Server Test
+=========================
 
   Purpose
   -------
@@ -22,8 +22,6 @@ Follower Maze Server Test by Samuel Dost
   Methodology
   -----------
   This application uses the SocketServer library from the Python 2.7 standard libraries to eliminate the need for boilerplate networking code as well as the heapq library from the Python 2.7 standard libraries for processing the event stream using a priority queue implemented as a binary heap.
-
-  I'm a firm believer in self-commenting code, and since there are no complicated algorithms in this code, I'm letting the code speak for itself.
 
   Performance
   -----------
