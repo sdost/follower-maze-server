@@ -3,8 +3,8 @@ Follower Maze Server Test
 
   Dependencies
   ------------
-  Python 2.7
-  pytest (for unit testing)
+  * Python 2.7
+  * pytest (for unit testing)
 
   Purpose
   -------
