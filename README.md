@@ -1,6 +1,11 @@
 Follower Maze Server Test
 =========================
 
+  Dependencies
+  ------------
+  Python 2.7
+  pytest (for unit testing)
+
   Purpose
   -------
   This program is intended to solve the problem put forth in the document 'Back-end Developer Challenge: Follower Maze'. Given the input validation program, connect an event stream and 100 clients and properly route events to connected user clients.
